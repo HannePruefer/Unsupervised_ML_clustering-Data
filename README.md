@@ -1,4 +1,4 @@
-# Song_clustering_with_unsupervised_ML_WBS, creating playlists from 5000 spotify songs
+# Song clustering with unsupervised ML WBS, creating playlists from 5000 spotify songs
  A project within the Data Science Bootcamp at WBS Coding School
 
 ## The Task and Overview
@@ -23,7 +23,7 @@ A [dataset](https://github.com/HannePruefer/Unsupervised_ML_clustering-Data/blob
 - Pyhton SciKit Learn 
 - Plotly for visualization 
 
-This is the [notebook] containing the clustering
+This is the [notebook](https://github.com/HannePruefer/Unsupervised_ML_clustering-Data/blob/main/Spotify_Playlists.ipynb) containing the clustering
 
 [Here](https://github.com/HannePruefer/Unsupervised_ML_clustering-Data/blob/main/Moosic%20Playlists.pdf) is also a presentation on the project
 
