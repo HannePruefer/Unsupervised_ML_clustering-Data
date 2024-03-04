@@ -16,7 +16,7 @@ Use KMeans to build the model.
 
 
 ## Data Source
-A [dataset] with 5000 song titles with Spotify Audio Features to describe them
+A [dataset](https://github.com/HannePruefer/Unsupervised_ML_clustering-Data/blob/main/6.3.3_spotify_5000_songs.csv) with 5000 song titles with Spotify Audio Features to describe them
 
 ## Tools used
 - Python pandas
@@ -25,11 +25,10 @@ A [dataset] with 5000 song titles with Spotify Audio Features to describe them
 
 This is the [notebook] containing the clustering
 
-[Here] is also a presentation on the project
+[Here](https://github.com/HannePruefer/Unsupervised_ML_clustering-Data/blob/main/Moosic%20Playlists.pdf) is also a presentation on the project
 
 
 
-## Authors
+## Co-Authors
 - [Tilman Vogel](https://github.com/tvogel)
 - Sebastian Foth 
-- Hanne Prüfer
