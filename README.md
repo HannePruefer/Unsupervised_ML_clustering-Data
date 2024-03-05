@@ -1,5 +1,4 @@
-# Song clustering with unsupervised ML WBS, creating playlists from 5000 spotify songs
- A project within the Data Science Bootcamp at WBS Coding School
+# Song clustering with unsupervised ML, creating playlists from 5000 spotify songs
 
 ## The Task and Overview
 
